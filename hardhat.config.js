@@ -52,7 +52,7 @@ module.exports = {
     outputFile: "gas-report.txt",
     noColors: true,
   },
-  solidity: "0.8.17",
+  solidity: "0.4.19",
   namedAccounts: {
     deployer: {
       default: 0,
